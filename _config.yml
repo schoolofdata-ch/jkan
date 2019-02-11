@@ -1,11 +1,11 @@
 title: JKAN
-greeting: Welcome to School of Data CH
+greeting: Data for Hackdays
 description: A lightweight open data portal powered by JKAN.
 baseurl: /jkan
-logo: /img/jkan.png
+logo: https://opendata.ch/files/2014/07/open-knowledge-switzerland-logo-180px.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Sandstone
 
 # Authentication
 github_client_id: 658541595ae672fb6aaf
